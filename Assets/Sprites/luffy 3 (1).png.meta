@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: f859cac2e350c974082569d0b387b76c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8800543968666158263
+    second: luffy 3 (1)_0
+  - first:
+      213: 5186519548461011380
+    second: luffy 3 (1)_1
+  - first:
+      213: 2563405266674705012
+    second: luffy 3 (1)_2
+  - first:
+      213: 2692106662808170734
+    second: luffy 3 (1)_3
+  - first:
+      213: 1680610710749064961
+    second: luffy 3 (1)_4
+  - first:
+      213: -4185852680722036382
+    second: luffy 3 (1)_5
+  - first:
+      213: -1160451320041962098
+    second: luffy 3 (1)_6
+  - first:
+      213: 4348419370994884906
+    second: luffy 3 (1)_7
+  - first:
+      213: 3000770715535402859
+    second: luffy 3 (1)_8
+  - first:
+      213: 6203768009215837594
+    second: luffy 3 (1)_9
+  - first:
+      213: 5855201190657830689
+    second: luffy 3 (1)_10
+  - first:
+      213: 4786952386555294782
+    second: luffy 3 (1)_11
+  - first:
+      213: 762920523184991509
+    second: luffy 3 (1)_12
+  - first:
+      213: 4852781590019933235
+    second: luffy 3 (1)_13
+  - first:
+      213: 2469793038166657305
+    second: luffy 3 (1)_14
+  - first:
+      213: 2960786587012869838
+    second: luffy 3 (1)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luffy 3 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34365d45dbae6240800000000000000
+      internalID: 4786952386555294782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ea0b0070187abe40af14120f67492dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      luffy 3 (1)_0: -8800543968666158263
+      luffy 3 (1)_1: 5186519548461011380
+      luffy 3 (1)_10: 5855201190657830689
+      luffy 3 (1)_11: 4786952386555294782
+      luffy 3 (1)_12: 762920523184991509
+      luffy 3 (1)_13: 4852781590019933235
+      luffy 3 (1)_14: 2469793038166657305
+      luffy 3 (1)_15: 2960786587012869838
+      luffy 3 (1)_2: 2563405266674705012
+      luffy 3 (1)_3: 2692106662808170734
+      luffy 3 (1)_4: 1680610710749064961
+      luffy 3 (1)_5: -4185852680722036382
+      luffy 3 (1)_6: -1160451320041962098
+      luffy 3 (1)_7: 4348419370994884906
+      luffy 3 (1)_8: 3000770715535402859
+      luffy 3 (1)_9: 6203768009215837594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
